@@ -7,7 +7,7 @@ import {
   WALLET
 } from "@dataverse/runtime-connector";
 
-const runtimeConnector:RuntimeConnector=new RuntimeConnector(Extension)
+// const runtimeConnector:RuntimeConnector=new RuntimeConnector(Extension)
 
 
 export default function Home() {
